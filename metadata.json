@@ -1,0 +1,7 @@
+{
+  "name": "Copy of NutriScan",
+  "description": "An AI-powered nutrition tracker that lets you scan meals instantly to track calories and macros.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
